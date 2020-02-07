@@ -1,5 +1,5 @@
-class Book
-  attr_accessor :, :page_count, :genre
+class Shoe
+  attr_accessor :brand, :color, :size, :material, :condition
   attr_reader :title
  
   def initialize(title)
@@ -7,7 +7,7 @@ class Book
   end
  
   def turn_page
-    puts "Flipping the page...wow, you read fast!"
+    puts ""
   end
  
 end
