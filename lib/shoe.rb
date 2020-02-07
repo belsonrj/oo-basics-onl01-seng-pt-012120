@@ -7,7 +7,7 @@ class Shoe
   end
  
   def turn_page
-    puts ""
+    puts "Your shoe is as good as new!"
   end
  
 end
