@@ -6,7 +6,7 @@ class Shoe
     @title = title
   end
  
-  def turn_page
+  def cobble
     puts "Your shoe is as good as new!"
   end
  
